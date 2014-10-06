@@ -1,0 +1,33 @@
+{
+  "name": "IM Fell Great Primer",
+  "designer": "Igino Marini",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 124052,
+  "fonts": [
+    {
+      "name": "IM FELL Great Primer",
+      "style": "italic",
+      "weight": 400,
+      "filename": "IMFELLGreatPrimer-Italic.ttf",
+      "postScriptName": "IM_FELL_Great_Primer_Italic",
+      "fullName": "IM FELL Great Primer Italic",
+      "copyright": "(c) 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL Great Primer Italic"
+    },
+    {
+      "name": "IM FELL Great Primer",
+      "style": "normal",
+      "weight": 400,
+      "filename": "IMFELLGreatPrimer-Regular.ttf",
+      "postScriptName": "IM_FELL_Great_Primer_Roman",
+      "fullName": "IM FELL Great Primer Roman",
+      "copyright": "(c) 2007 Igino Marini (www.iginomarini.com) With Reserved Font Name IM FELL Great Primer Roman"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2010-05-17"
+}
